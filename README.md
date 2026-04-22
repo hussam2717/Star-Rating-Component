@@ -33,5 +33,11 @@ Event Handling
 UI State Management
 CSS Styling & Layout
 
+🔮 Future Improvements
+Store ratings in database
+Add animations
+Make it reusable component (React version)
+Add average rating system
+
 
 
