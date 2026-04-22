@@ -26,3 +26,12 @@ User clicks on a star to select rating
 Stars visually update based on selection
 User clicks "Submit Rating"
 Rating can be logged or sent to backend (optional)
+
+🧠 Learning Concepts
+DOM Manipulation
+Event Handling
+UI State Management
+CSS Styling & Layout
+
+
+
