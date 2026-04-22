@@ -20,3 +20,9 @@ star-rating-component/
 │── index.html
 │── style.css
 │── script.js
+
+⚙️ How It Works
+User clicks on a star to select rating
+Stars visually update based on selection
+User clicks "Submit Rating"
+Rating can be logged or sent to backend (optional)
