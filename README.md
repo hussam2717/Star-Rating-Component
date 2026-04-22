@@ -9,3 +9,8 @@ Live Demo -
 📩 Submit rating button
 💡 Clean and modern UI design
 ⚡ Lightweight and fast
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
